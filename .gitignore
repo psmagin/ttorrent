@@ -13,13 +13,11 @@
 /.classpath
 /.project
 /.settings
-/.idea/workspace.xml
 # Ignore common editor swap files
 *.swp
 *.bak
 *~
-*~
 
 #ignore idea workspace file and idea module files
 *.iml
-.idea/workspace.xml
+.idea
